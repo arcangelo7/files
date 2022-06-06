@@ -1,0 +1,466 @@
+{
+    "time": {
+        "materialization_all_versions": {
+            "w_out_cache_w_out_index": {
+                "min": 2.748223362999852,
+                "median": 7.131879185999878,
+                "mean": 7.029945460454983,
+                "stdev": 1.4757863698150446,
+                "max": 10.947824271000172
+            },
+            "w_out_cache_w_index": {
+                "min": 0.0,
+                "median": 0.0,
+                "mean": 0.0,
+                "stdev": 0.0,
+                "max": 0.0
+            },
+            "w_cache_w_out_index": {
+                "min": 0.0,
+                "median": 0.0,
+                "mean": 0.0,
+                "stdev": 0.0,
+                "max": 0.0
+            },
+            "w_cache_w_index": {
+                "min": 0.0,
+                "median": 0.0,
+                "mean": 0.0,
+                "stdev": 0.0,
+                "max": 0.0
+            }
+        },
+        "materialization_single_version": {
+            "w_out_cache_w_out_index": {
+                "min": 2.4145424070002264,
+                "median": 7.08837715300001,
+                "mean": 6.968664316924976,
+                "stdev": 1.4812781957162255,
+                "max": 10.688245569000173
+            },
+            "w_out_cache_w_index": {
+                "min": 0.0,
+                "median": 0.0,
+                "mean": 0.0,
+                "stdev": 0.0,
+                "max": 0.0
+            },
+            "w_cache_w_out_index": {
+                "min": 0.0,
+                "median": 0.0,
+                "mean": 0.0,
+                "stdev": 0.0,
+                "max": 0.0
+            },
+            "w_cache_w_index": {
+                "min": 0.0,
+                "median": 0.0,
+                "mean": 0.0,
+                "stdev": 0.0,
+                "max": 0.0
+            }
+        },
+        "cross_version_structured_query": {
+            "w_out_cache_w_out_index": {
+                "min": 3.4513908959997934,
+                "median": 22.302038251999875,
+                "mean": 22.623783068849953,
+                "stdev": 8.746025938602918,
+                "max": 45.76773123000021
+            },
+            "w_out_cache_w_index": {
+                "min": 0.0,
+                "median": 0.0,
+                "mean": 0.0,
+                "stdev": 0.0,
+                "max": 0.0
+            },
+            "w_cache_w_out_index": {
+                "min": 3.455245631001162,
+                "median": 44.04187774350066,
+                "mean": 50.39545317496502,
+                "stdev": 34.0718626262545,
+                "max": 144.94406475399956
+            },
+            "w_cache_w_index": {
+                "min": 0.0,
+                "median": 0.0,
+                "mean": 0.0,
+                "stdev": 0.0,
+                "max": 0.0
+            }
+        },
+        "single_version_structured_query": {
+            "w_out_cache_w_out_index": {
+                "min": 4.578010182998696,
+                "median": 17.943183372501153,
+                "mean": 18.55314067256002,
+                "stdev": 7.072355595316764,
+                "max": 39.3077339219999
+            },
+            "w_out_cache_w_index": {
+                "min": 0.0,
+                "median": 0.0,
+                "mean": 0.0,
+                "stdev": 0.0,
+                "max": 0.0
+            },
+            "w_cache_w_out_index": {
+                "min": 3.1359554840018973,
+                "median": 20.061073159497028,
+                "mean": 23.006586729289904,
+                "stdev": 12.35717386591393,
+                "max": 73.7681704600036
+            },
+            "w_cache_w_index": {
+                "min": 0.0,
+                "median": 0.0,
+                "mean": 0.0,
+                "stdev": 0.0,
+                "max": 0.0
+            }
+        },
+        "cross_version_structured_query_p_o": {
+            "w_out_cache_w_out_index": {
+                "min": 281.33023398300065,
+                "median": 287.4160169549996,
+                "mean": 291.8422965646005,
+                "stdev": 11.67926384761,
+                "max": 312.7088379730012
+            },
+            "w_out_cache_w_index": {
+                "min": 476.83969722999996,
+                "median": 501.869437331,
+                "mean": 591.0865390191999,
+                "stdev": 131.28112330955358,
+                "max": 754.5512157039993
+            },
+            "w_cache_w_out_index": {
+                "min": 59.147343697004544,
+                "median": 67.70328594650346,
+                "mean": 117.48207477340038,
+                "stdev": 158.40488259614676,
+                "max": 567.837583966997
+            },
+            "w_cache_w_index": {
+                "min": 272.4212936030008,
+                "median": 397.8680157649999,
+                "mean": 425.18424299860004,
+                "stdev": 172.93023657222824,
+                "max": 799.556919235
+            }
+        },
+        "single_version_structured_query_p_o": {
+            "w_out_cache_w_out_index": {
+                "min": 213.0799904350024,
+                "median": 226.87773887050025,
+                "mean": 228.961342512201,
+                "stdev": 9.985223273907021,
+                "max": 245.64915454500078
+            },
+            "w_out_cache_w_index": {
+                "min": 425.63755345200025,
+                "median": 453.73724201549976,
+                "mean": 517.8226133129001,
+                "stdev": 120.16079234722861,
+                "max": 702.0743803559999
+            },
+            "w_cache_w_out_index": {
+                "min": 92.45709701099997,
+                "median": 113.34178647800002,
+                "mean": 145.67043849680002,
+                "stdev": 103.52502358406943,
+                "max": 437.52111938099995
+            },
+            "w_cache_w_index": {
+                "min": 326.4292604029997,
+                "median": 334.53398548849964,
+                "mean": 393.1786408179999,
+                "stdev": 130.10959985068624,
+                "max": 700.2192334739993
+            }
+        },
+        "cross_delta_structured_query": {
+            "w_out_cache_w_out_index": {
+                "min": 5.149186833000385,
+                "median": 23.092593349000026,
+                "mean": 24.607516682610033,
+                "stdev": 10.02253359129217,
+                "max": 46.55068689400014
+            },
+            "w_out_cache_w_index": {
+                "min": 0.0,
+                "median": 0.0,
+                "mean": 0.0,
+                "stdev": 0.0,
+                "max": 0.0
+            },
+            "w_cache_w_out_index": {
+                "min": 0.0,
+                "median": 0.0,
+                "mean": 0.0,
+                "stdev": 0.0,
+                "max": 0.0
+            },
+            "w_cache_w_index": {
+                "min": 0.0,
+                "median": 0.0,
+                "mean": 0.0,
+                "stdev": 0.0,
+                "max": 0.0
+            }
+        },
+        "single_delta_structured_query": {
+            "w_out_cache_w_out_index": {
+                "min": 5.170826958999896,
+                "median": 20.93833405050009,
+                "mean": 21.27501376866499,
+                "stdev": 8.025205740951874,
+                "max": 42.78348827000082
+            },
+            "w_out_cache_w_index": {
+                "min": 0.0,
+                "median": 0.0,
+                "mean": 0.0,
+                "stdev": 0.0,
+                "max": 0.0
+            },
+            "w_cache_w_out_index": {
+                "min": 0.0,
+                "median": 0.0,
+                "mean": 0.0,
+                "stdev": 0.0,
+                "max": 0.0
+            },
+            "w_cache_w_index": {
+                "min": 0.0,
+                "median": 0.0,
+                "mean": 0.0,
+                "stdev": 0.0,
+                "max": 0.0
+            }
+        },
+        "cross_delta_structured_query_p_o": {
+            "w_out_cache_w_out_index": {
+                "min": 217.25555929099937,
+                "median": 227.0800101904997,
+                "mean": 226.89575918440005,
+                "stdev": 6.0670135503153455,
+                "max": 233.85336760999962
+            },
+            "w_out_cache_w_index": {
+                "min": 440.16395588100204,
+                "median": 558.9496436040017,
+                "mean": 559.017120693301,
+                "stdev": 122.23797818968697,
+                "max": 676.3574622349988
+            },
+            "w_cache_w_out_index": {
+                "min": 0.0,
+                "median": 0.0,
+                "mean": 0.0,
+                "stdev": 0.0,
+                "max": 0.0
+            },
+            "w_cache_w_index": {
+                "min": 0.0,
+                "median": 0.0,
+                "mean": 0.0,
+                "stdev": 0.0,
+                "max": 0.0
+            }
+        },
+        "single_delta_structured_query_p_o": {
+            "w_out_cache_w_out_index": {
+                "min": 221.32673659799912,
+                "median": 231.94348588100002,
+                "mean": 229.73250748960055,
+                "stdev": 5.54967988319569,
+                "max": 235.26416986500044
+            },
+            "w_out_cache_w_index": {
+                "min": 435.4453842920011,
+                "median": 559.4161409079989,
+                "mean": 558.8152643680999,
+                "stdev": 124.88761115072543,
+                "max": 680.3263603009982
+            },
+            "w_cache_w_out_index": {
+                "min": 0.0,
+                "median": 0.0,
+                "mean": 0.0,
+                "stdev": 0.0,
+                "max": 0.0
+            },
+            "w_cache_w_index": {
+                "min": 0.0,
+                "median": 0.0,
+                "mean": 0.0,
+                "stdev": 0.0,
+                "max": 0.0
+            }
+        }
+    },
+    "memory": {
+        "materialization_all_versions": {
+            "w_cache_w_out_index": {
+                "min": 0.0,
+                "median": 0.0,
+                "mean": 0.0,
+                "stdev": 0.0,
+                "max": 0.0
+            },
+            "w_out_cache_w_out_index": {
+                "min": 33.55078125,
+                "median": 44.615234375,
+                "mean": 45.7064453125,
+                "stdev": 8.641801740822958,
+                "max": 64.58203125
+            }
+        },
+        "materialization_single_version": {
+            "w_cache_w_out_index": {
+                "min": 0.0,
+                "median": 0.0,
+                "mean": 0.0,
+                "stdev": 0.0,
+                "max": 0.0
+            },
+            "w_out_cache_w_out_index": {
+                "min": 32.5,
+                "median": 38.009765625,
+                "mean": 38.21869140625,
+                "stdev": 3.1592683858567376,
+                "max": 43.96875
+            }
+        },
+        "cross_version_structured_query": {
+            "w_cache_w_out_index": {
+                "min": 33.36328125,
+                "median": 138.123046875,
+                "mean": 153.5045703125,
+                "stdev": 79.19805451015414,
+                "max": 512.83984375
+            },
+            "w_out_cache_w_out_index": {
+                "min": 35.83203125,
+                "median": 209.65625,
+                "mean": 246.367578125,
+                "stdev": 125.61080392846422,
+                "max": 500.37890625
+            }
+        },
+        "single_version_structured_query": {
+            "w_cache_w_out_index": {
+                "min": 33.42578125,
+                "median": 101.02734375,
+                "mean": 99.5837109375,
+                "stdev": 37.39986966920006,
+                "max": 191.08203125
+            },
+            "w_out_cache_w_out_index": {
+                "min": 34.44140625,
+                "median": 84.33984375,
+                "mean": 91.69498046875,
+                "stdev": 35.391275188071404,
+                "max": 179.43359375
+            }
+        },
+        "cross_version_structured_query_p_o": {
+            "w_cache_w_out_index": {
+                "min": 258.765625,
+                "median": 266.546875,
+                "mean": 308.366015625,
+                "stdev": 136.04613780690667,
+                "max": 695.4296875
+            },
+            "w_out_cache_w_out_index": {
+                "min": 663.625,
+                "median": 679.55859375,
+                "mean": 676.65859375,
+                "stdev": 8.917108200407187,
+                "max": 687.671875
+            }
+        },
+        "single_version_structured_query_p_o": {
+            "w_cache_w_out_index": {
+                "min": 217.32421875,
+                "median": 219.892578125,
+                "mean": 224.368359375,
+                "stdev": 14.677594483397634,
+                "max": 265.90234375
+            },
+            "w_out_cache_w_out_index": {
+                "min": 251.51953125,
+                "median": 259.2265625,
+                "mean": 260.214453125,
+                "stdev": 6.3557987172546335,
+                "max": 268.796875
+            }
+        },
+        "cross_delta_structured_query": {
+            "w_cache_w_out_index": {
+                "min": 0.0,
+                "median": 0.0,
+                "mean": 0.0,
+                "stdev": 0.0,
+                "max": 0.0
+            },
+            "w_out_cache_w_out_index": {
+                "min": 37.70703125,
+                "median": 206.646484375,
+                "mean": 246.37994140625,
+                "stdev": 127.2800035744653,
+                "max": 504.0546875
+            }
+        },
+        "single_delta_structured_query": {
+            "w_cache_w_out_index": {
+                "min": 0.0,
+                "median": 0.0,
+                "mean": 0.0,
+                "stdev": 0.0,
+                "max": 0.0
+            },
+            "w_out_cache_w_out_index": {
+                "min": 36.87890625,
+                "median": 89.2734375,
+                "mean": 98.9413671875,
+                "stdev": 37.58793120181289,
+                "max": 190.5
+            }
+        },
+        "cross_delta_structured_query_p_o": {
+            "w_cache_w_out_index": {
+                "min": 0.0,
+                "median": 0.0,
+                "mean": 0.0,
+                "stdev": 0.0,
+                "max": 0.0
+            },
+            "w_out_cache_w_out_index": {
+                "min": 74.69140625,
+                "median": 75.09765625,
+                "mean": 75.09609375,
+                "stdev": 0.24891392778665591,
+                "max": 75.453125
+            }
+        },
+        "single_delta_structured_query_p_o": {
+            "w_cache_w_out_index": {
+                "min": 0.0,
+                "median": 0.0,
+                "mean": 0.0,
+                "stdev": 0.0,
+                "max": 0.0
+            },
+            "w_out_cache_w_out_index": {
+                "min": 74.41015625,
+                "median": 74.63671875,
+                "mean": 74.705078125,
+                "stdev": 0.25987084726670395,
+                "max": 75.13671875
+            }
+        }
+    }
+}
